@@ -1,2 +1,2 @@
-# TwentyFour-SevenDscrdBot
+# TwentyFour/SevenDiscordBot
 desfd
